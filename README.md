@@ -10,3 +10,5 @@ Sample Plan Mapping.xlsx - A sample of how I will learn and define plans.
 Sample Rates Calculator.xlsx - Using ridiculous data, this is a sample of a rates calculator I have built for my usage. 
 
 Sample Test Plan.xlsx - A simple sample of a test plan. 
+
+JIRA Import Template.xlsx - A document created as I was experiment with JIRA mangament items.  I have used JIRA only as a contributing user in the past.
